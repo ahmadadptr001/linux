@@ -40,7 +40,7 @@ class processing_:
 
 			file_result_paramspider = open(f"{self.base_path}/output/{self.output}_paramspider.txt", "r").read()
 
-			command_dalfox = f"dalfox file output/{self.output}_paramspider.txt -b hahwul.xss.ht -o output/{self.output}_dalfox.txt"
+			command_dalfox = f"export PATH=$PATH:$HOME/go/bin; dalfox file output/{self.output}_paramspider.txt -b hahwul.xss.ht -o output/{self.output}_dalfox.txt"
 			result_dalfox = getoutput(command_dalfox)
 
 			try:
