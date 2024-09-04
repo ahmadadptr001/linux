@@ -1,6 +1,6 @@
 # Information
-> Use this script just in kali-linux
-> support : kali linux
+Use this script just in kali-linux
+- support : kali linux
 
 # Command
 > $ sudo su
