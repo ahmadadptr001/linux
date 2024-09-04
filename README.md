@@ -12,6 +12,8 @@ Use this script just in kali-linux
 
 - `$ cd linux`
 
+- `$ cd web-injection`
+
 - `$ python main.py`
 
 
