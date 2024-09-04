@@ -4,15 +4,15 @@ Use this script just in kali-linux
 
 
 # Command
-`$ sudo su`
+- `$ sudo su`
 
-`$ apt-get update`
+- `$ apt-get update`
 
-`$ git clone https://github.com/ahmadadptr001/linux`
+- `$ git clone https://github.com/ahmadadptr001/linux`
 
-`$ cd linux`
+- `$ cd linux`
 
-`$ python main.py`
+- `$ python main.py`
 
 
 # Processing
