@@ -19,4 +19,4 @@ stop and use command *$ sudo su* to running the file _main.py_ again. Then. pyth
 and auto installing if there are module not installed. So, enjoy :)
 
 
-creating by anon011Enjinering
+> *_creating by anon011Enjinering_*
